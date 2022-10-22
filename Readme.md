@@ -8,4 +8,4 @@
 | 04  |     Accrodion | [Live Demo](https://faq-info-accordion.netlify.app/)  |
 | 05  |     Color Changer| [Live Demo](https://getrandomcolor.netlify.app/)  |
 | 06  |     Shade Up| [Live Demo](https://convert-colors.netlify.app/)  |
-<!-- | 07  |   | [Live Demo]()  | -->
+| 07  |     Rock Paper Scissors| [Live Demo](https://stone-paper-scissor-project.netlify.app/)  |
