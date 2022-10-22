@@ -1,3 +1,3 @@
 # 🌈 Color Changer 🏳‍🌈
 
-[Screenshot](./Image/ColorChanger.png)
+![Screenshot](./Image/project%20screenshot.PNG)
